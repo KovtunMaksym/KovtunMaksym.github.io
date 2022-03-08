@@ -1,0 +1,22 @@
+body {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(https://oldschoolgrappling.com/wp-content/uploads/2018/08/Background-opera-speeddials-community-web-simple-backgrounds.jpg) no-repeat fixed;
+	}
+h1, h2, h3 {
+	font-family: Verdana;
+	margin-top: 1.5em;
+}
+h1 {
+	font-size: 32px;
+}
+table, th, td {
+	border: 1px solid black;
+}
+figcaption {
+	font-style: italic;
+}
+figure {
+	float: right;
+}
